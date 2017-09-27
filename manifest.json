@@ -10,6 +10,7 @@
     "converted_from_user_script": true,
     "description":  "Automatically allows for you to type tweets to the 280 character limit rather than 140 in TweetDeck on page load.)",
     "name":         "TweetDeck force tweet cramming automatically",
-    "version":      "1",
+    "short_name":   "TweetDeck 280 Cramming",
+    "version":      "2",
     "icons": { "16": "icon16.png", "48": "icon48.png", "128": "icon128.png" }
 }
